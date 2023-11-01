@@ -7,7 +7,6 @@
 #include <NewPing.h>                // Used as an interface with the ultrasonic sensor, which helps us measure the distance to obstacles 
 
  
- 
 
 #define TRIGGER_PIN 6               // Choosing a trigger pin 
 
